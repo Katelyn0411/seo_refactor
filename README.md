@@ -1,2 +1,1 @@
-# seo_refactor
-Challenge assignment 1
+# Code Refactor Starter Code
